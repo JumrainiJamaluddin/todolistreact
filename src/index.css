@@ -105,12 +105,12 @@ body html {
   outline: unset;
 
   font-family: "Homenaje", sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   text-transform: lowercase;
 }
 
 .add-btn {
-  font-size: 1.8rem;
+  font-size: 1.8rem;s
   font-family: "Bungee", sans-serif;
 
   padding: 16px;
