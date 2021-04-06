@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-//memsnggil APP.js 
+//memanggil APP.js 
 import App from './App';
 
 const rootElement = document.getElementById("root");

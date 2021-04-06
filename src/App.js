@@ -6,7 +6,7 @@ export default function App() {
   return (
                         <div className="container">
                         <div className="frame">
-                            <section        className="header">
+                            <section className="header">
                                 <button className="header-btn main-black-color">Add</button>
                                 <h1 className="header-title">Todo Lists</h1>
                                 <button className="header-btn main-red-color">Clear</button>
