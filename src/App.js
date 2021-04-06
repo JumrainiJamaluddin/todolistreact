@@ -2,10 +2,11 @@ import React from "react"
 import './index.css';
 import './index.js'
 
+import Paper from "./components/Paper";
+
 export default function App() {
   return (
-                        <div className="container">
-                        <div className="frame">
+                        <Paper>
                             <section className="header">
                                 <button className="header-btn main-black-color">Add</button>
                                 <h1 className="header-title">Todo Lists</h1>
@@ -43,8 +44,7 @@ export default function App() {
                                 </div>
                             </section>
                         
-                     </div>
-                     </div>
+                        </Paper>
                      
   );
 
